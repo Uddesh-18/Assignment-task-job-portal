@@ -80,12 +80,3 @@ The frontend should now be running on **`http://localhost:3000`**.
 
 ---
 
-
-
----
-
-🚀 **Contributions are welcome!** Fork the repository, submit pull requests, and help improve the project!  
-
----
-
-Let me know if you need any changes! 😊
