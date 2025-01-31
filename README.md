@@ -59,3 +59,13 @@ The frontend should now be running on `http://localhost:3000`.
 
 ---
 
+🛠️ Additional Notes
+
+Ensure that your database (db) is imported in mysql.
+
+Use a tool like Postman  to test API endpoints.
+
+Modify the .env file as needed to match your setup.
+
+
+
